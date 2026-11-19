@@ -1,6 +1,6 @@
 # AI 가상 인터뷰 가이드
 
-교재: 2.7절 AI 가상 인터뷰와 결과 정리 (36~38쪽) · 부록 A-4 가상 인터뷰 결과 파일 표시 규칙 (43쪽) · 쓰는 날: Day 2 오후 · 쓰는 곳: 작업 폴더의 `interviews/virtual-interviews.md` · `interviews/interview-report.md`, 워크시트 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」 · 「고객이 해내려는 일을 한 장에 담은 JTBD 요약 카드」 · 「4 Forces로 그린 고용·해고 여정」
+교재: 2.7절 AI 가상 인터뷰와 결과 정리 (36~38쪽) · 부록 A-4 가상 인터뷰 결과 파일 표시 규칙 (43~44쪽) · 쓰는 날: Day 2 오후 · 쓰는 곳: 작업 폴더의 `interviews/virtual-interviews.md` · `interviews/interview-report.md`, 워크시트 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」 · 「고객이 해내려는 일을 한 장에 담은 JTBD 요약 카드」 · 「4 Forces로 그린 고용·해고 여정」
 
 ## 이 가이드에서 볼 것
 

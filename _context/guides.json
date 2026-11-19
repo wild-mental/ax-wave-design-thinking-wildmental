@@ -6,6 +6,6 @@
  {"slug": "running-example-research-report", "title": "중심 예제 리서치 보고서 전문", "places": [{"where": "1.5", "page": 18}, {"where": "1.7", "page": 22}, {"where": "2.3", "page": 28}], "type": "R", "pri": "P1", "due": "11/25", "captures": 0},
  {"slug": "concept-prototype-guide", "title": "개념 프로토타입 만들기 가이드", "places": [{"where": "2.4", "page": 31}, {"where": "부록 A-3", "page": 43}], "type": "P", "pri": "P1", "due": "11/25", "captures": 0},
  {"slug": "jtbd-interview-guide", "title": "JTBD 심층 인터뷰 가이드", "places": [{"where": "2.5", "page": 34}, {"where": "2.6", "page": 36}], "type": "F", "pri": "P1", "due": "11/26", "captures": 0},
- {"slug": "ai-virtual-interview-guide", "title": "AI 가상 인터뷰 가이드", "places": [{"where": "2.7", "page": 38}, {"where": "부록 A-4", "page": 43}], "type": "P", "pri": "P1", "due": "11/26", "captures": 0},
+ {"slug": "ai-virtual-interview-guide", "title": "AI 가상 인터뷰 가이드", "places": [{"where": "2.7", "page": 38}, {"where": "부록 A-4", "page": 44}], "type": "P", "pri": "P1", "due": "11/26", "captures": 0},
  {"slug": "gallery-walk-guide", "title": "갤러리 워크 발표 가이드", "places": [{"where": "2.8", "page": 39}], "type": "F", "pri": "P2", "due": "11/26", "captures": 0}
 ]

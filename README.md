@@ -43,7 +43,7 @@
 | 부록 A-1 | 42 | [작업 폴더와 워크시트 저장소 준비 가이드](guides/workspace-repo-setup-guide.md) | [워크시트][ws] 원본 · [킷][kit] 「작업 폴더 준비 지시문」 |
 | 부록 A-2 | 43 | [Claude Code 리서치 에이전트 사용 가이드](guides/claude-code-research-agent-guide.md) | [킷][kit] 「함께 지키는 작업 규칙」 · 「새 대화 첫머리 블록」 |
 | 부록 A-3 | 43 | [개념 프로토타입 만들기 가이드](guides/concept-prototype-guide.md) | [킷][kit] 「개념 프로토타입 지시문」 · 앞 과목에서 만든 나만의 DESIGN.md |
-| 부록 A-4 | 43 | [AI 가상 인터뷰 가이드](guides/ai-virtual-interview-guide.md) | [킷][kit] 「AI 가상 인터뷰 지시문」 |
+| 부록 A-4 | 44 | [AI 가상 인터뷰 가이드](guides/ai-virtual-interview-guide.md) | [킷][kit] 「AI 가상 인터뷰 지시문」 |
 
 ### Day 1 · 11/30 (월) — Part 1 문제를 발굴하고 가설을 수립하기
 
