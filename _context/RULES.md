@@ -56,13 +56,14 @@
 ```
 design-thinking-worksheet/
 ├── worksheet.md
+├── DESIGN.md      (선택) 앞 과목에서 만든 나만의 DESIGN.md 사본
 ├── research/      status-report.md · stakeholders.md · market-tam-sam.md · causes-hypotheses.md · segment-map.md · solution-som.md
 ├── prototype/     concept-prototype.html
 └── interviews/    persona-cards.md · interview-plan.md · pair-interview-notes.md · virtual-interviews.md · interview-report.md
 ```
 
 - 복사본(큰 변경 전에 남기는 파일): `<원래 파일 이름>-before-<다음 작업>` 한 가지 형식만 씁니다(4-1 자료실과 같은 규칙). 예) `prototype/concept-prototype-before-second-screen.html`. `-backup` · 날짜 붙이기는 쓰지 않습니다.
-- 나만의 DESIGN.md는 작업 폴더 안으로 복사해 씁니다(교재 부록 A-3). 킷 지시문은 `prototype/` 안을 가리킵니다.
+- 나만의 DESIGN.md는 작업 폴더 맨 위에 `DESIGN.md`라는 이름으로 복사하고, 지시문에서는 `@DESIGN.md`로 가리킵니다(교재 2.4절 · 부록 A-3).
 
 ### 교재 표기
 
