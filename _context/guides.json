@@ -1,11 +1,11 @@
 [
- {"slug": "workspace-repo-setup-guide", "title": "작업 폴더와 워크시트 저장소 준비 가이드", "places": [{"where": "1.1", "page": 11}, {"where": "부록 A-1", "page": 42}], "type": "T", "pri": "P0", "due": "11/23", "captures": 2},
- {"slug": "claude-code-research-agent-guide", "title": "Claude Code 리서치 에이전트 사용 가이드", "places": [{"where": "1.2", "page": 14}, {"where": "1.3", "page": 15}, {"where": "부록 A-2", "page": 42}], "type": "P", "pri": "P0", "due": "11/24", "captures": 0},
- {"slug": "problem-tree-5-whys-guide", "title": "문제나무와 5 Whys 작성 가이드", "places": [{"where": "1.4", "page": 17}], "type": "W", "pri": "P1", "due": "11/24", "captures": 0},
- {"slug": "tam-sam-som-segment-map-guide", "title": "TAM·SAM·SOM과 세그먼트 맵 가이드", "places": [{"where": "1.6", "page": 22}, {"where": "2.2", "page": 27}], "type": "W", "pri": "P1", "due": "11/25", "captures": 0},
- {"slug": "running-example-research-report", "title": "관통 예제 리서치 보고서 전문", "places": [{"where": "1.5", "page": 19}, {"where": "1.7", "page": 23}, {"where": "2.3", "page": 29}], "type": "R", "pri": "P1", "due": "11/25", "captures": 0},
- {"slug": "concept-prototype-guide", "title": "개념 프로토타입 만들기 가이드", "places": [{"where": "2.4", "page": 32}, {"where": "부록 A-3", "page": 43}], "type": "P", "pri": "P1", "due": "11/25", "captures": 0},
- {"slug": "jtbd-interview-guide", "title": "JTBD 심층 인터뷰 가이드", "places": [{"where": "2.5", "page": 35}, {"where": "2.6", "page": 37}], "type": "F", "pri": "P1", "due": "11/26", "captures": 0},
- {"slug": "ai-virtual-interview-guide", "title": "AI 가상 인터뷰 가이드", "places": [{"where": "2.7", "page": 39}, {"where": "부록 A-4", "page": 43}], "type": "P", "pri": "P1", "due": "11/26", "captures": 0},
- {"slug": "gallery-walk-guide", "title": "갤러리 워크 발표 가이드", "places": [{"where": "2.8", "page": 40}], "type": "F", "pri": "P2", "due": "11/26", "captures": 0}
+ {"slug": "workspace-repo-setup-guide", "title": "작업 폴더와 워크시트 저장소 준비 가이드", "places": [{"where": "1.1", "page": 9}, {"where": "부록 A-1", "page": 42}], "type": "T", "pri": "P0", "due": "11/23", "captures": 2},
+ {"slug": "claude-code-research-agent-guide", "title": "Claude Code 리서치 에이전트 사용 가이드", "places": [{"where": "1.2", "page": 12}, {"where": "1.3", "page": 14}, {"where": "부록 A-2", "page": 43}], "type": "P", "pri": "P0", "due": "11/24", "captures": 0},
+ {"slug": "problem-tree-5-whys-guide", "title": "문제나무와 5 Whys 작성 가이드", "places": [{"where": "1.4", "page": 16}], "type": "W", "pri": "P1", "due": "11/24", "captures": 0},
+ {"slug": "tam-sam-som-segment-map-guide", "title": "TAM·SAM·SOM과 세그먼트 맵 가이드", "places": [{"where": "1.6", "page": 21}, {"where": "2.2", "page": 26}], "type": "W", "pri": "P1", "due": "11/25", "captures": 0},
+ {"slug": "running-example-research-report", "title": "중심 예제 리서치 보고서 전문", "places": [{"where": "1.5", "page": 18}, {"where": "1.7", "page": 22}, {"where": "2.3", "page": 28}], "type": "R", "pri": "P1", "due": "11/25", "captures": 0},
+ {"slug": "concept-prototype-guide", "title": "개념 프로토타입 만들기 가이드", "places": [{"where": "2.4", "page": 30}, {"where": "부록 A-3", "page": 43}], "type": "P", "pri": "P1", "due": "11/25", "captures": 0},
+ {"slug": "jtbd-interview-guide", "title": "JTBD 심층 인터뷰 가이드", "places": [{"where": "2.5", "page": 33}, {"where": "2.6", "page": 35}], "type": "F", "pri": "P1", "due": "11/26", "captures": 0},
+ {"slug": "ai-virtual-interview-guide", "title": "AI 가상 인터뷰 가이드", "places": [{"where": "2.7", "page": 37}, {"where": "부록 A-4", "page": 43}], "type": "P", "pri": "P1", "due": "11/26", "captures": 0},
+ {"slug": "gallery-walk-guide", "title": "갤러리 워크 발표 가이드", "places": [{"where": "2.8", "page": 38}], "type": "F", "pri": "P2", "due": "11/26", "captures": 0}
 ]

@@ -45,7 +45,7 @@ Windows는 처음에 `.md`, `.html` 같은 확장자(파일 이름 끝의 형식
 1. 파일 탐색기를 엽니다.
 2. 위쪽 **보기 → 표시 → 파일 이름 확장명**을 눌러 체크합니다. 화면에 따라 "파일 확장명"으로 보일 수 있습니다.
 
-켜 두지 않으면 `worksheet.md.txt`나 `DESIGN.md.txt`처럼 확장자가 잘못 붙은 것을 알아채기 어렵습니다. 쓰는 곳: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」 3번, 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 0단계
+켜 두지 않으면 `worksheet.md.txt`나 `DESIGN.md.txt`처럼 확장자가 잘못 붙은 것을 알아채기 어렵습니다. 쓰는 곳: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」 3번, 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 0번(준비물)
 
 ### 내려받은 `worksheet.md`를 작업 폴더로 옮기기
 
@@ -67,7 +67,7 @@ GitHub에서 **Download raw file**로 받은 파일은 보통 **다운로드** �
 3. 그 파일을 고르고 `F2`를 누릅니다. 확장자를 보이게 켜 두었다면 `.html` 앞부분만 선택됩니다.
 4. 이름을 `concept-prototype-before-second-screen.html`처럼 고칩니다. 띄어쓰기와 `복사본`이 남지 않았는지 봅니다.
 
-복사본은 원래 파일과 같은 폴더(예: `prototype/`, `research/`)에 둡니다. Claude Code에 "○○ 파일을 ○○-before-○○ 이름으로 복사해 둬. 복사본은 고치지 마."라고 시켜도 됩니다. 다른 폴더에 붙여 넣을 때는 `- 복사본`이 붙지 않으므로, 나만의 DESIGN.md 사본은 붙여 넣은 뒤 `F2`로 이름만 `DESIGN.md`로 바꿉니다. 쓰는 곳: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」 「되돌리기: 큰 변경 전에 복사본 남기기」, 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 0단계 · 「큰 변경 전에 복사본 만들기」
+복사본은 원래 파일과 같은 폴더(예: `prototype/`, `research/`)에 둡니다. Claude Code에 "○○ 파일을 ○○-before-○○ 이름으로 복사해 둬. 복사본은 고치지 마."라고 시켜도 됩니다. 다른 폴더에 붙여 넣을 때는 `- 복사본`이 붙지 않으므로, 나만의 DESIGN.md 사본은 붙여 넣은 뒤 `F2`로 이름만 `DESIGN.md`로 바꿉니다. 쓰는 곳: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」 「되돌리기: 큰 변경 전에 복사본 남기기」, 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 0번(준비물) · 「큰 변경 전에 복사본 만들기」
 
 ### 경로 표기
 
@@ -92,4 +92,4 @@ GitHub에서 **Download raw file**로 받은 파일은 보통 **다운로드** �
 3. 늘 브라우저로 열리게 하려면 **연결 프로그램 → 다른 앱 선택**에서 브라우저를 고르고 「항상」을 누릅니다.
 4. 파일을 고친 뒤에는 브라우저에서 강력 새로 고침(`Ctrl+Shift+R`)을 해야 바뀐 화면이 보입니다.
 
-`research/status-report.md`나 `interviews/interview-report.md` 같은 `.md` 파일은 오른쪽 클릭 → **연결 프로그램 → 메모장**으로 엽니다. 메모장에서도 `Ctrl+F`로 찾을 수 있습니다. 쓰는 곳: 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 2단계 · 「막혔을 때」, 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」 4번, 「[AI 가상 인터뷰 가이드](../guides/ai-virtual-interview-guide.md)」 「끝 표시가 빠진 인용 찾기」, 「[갤러리 워크 발표 가이드](../guides/gallery-walk-guide.md)」
+`research/status-report.md`나 `interviews/interview-report.md` 같은 `.md` 파일은 오른쪽 클릭 → **연결 프로그램 → 메모장**으로 엽니다. 메모장에서도 `Ctrl+F`로 찾을 수 있습니다. 쓰는 곳: 「[개념 프로토타입 만들기 가이드](../guides/concept-prototype-guide.md)」 2번 · 「막혔을 때」, 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」 4번, 「[AI 가상 인터뷰 가이드](../guides/ai-virtual-interview-guide.md)」 「끝 표시가 빠진 인용 찾기」, 「[갤러리 워크 발표 가이드](../guides/gallery-walk-guide.md)」

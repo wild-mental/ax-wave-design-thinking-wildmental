@@ -4,7 +4,7 @@
 
 ## 배경 (2026-11-20)
 
-- 교재는 이 자료실보다 **먼저 조판**되었습니다(2026-11-20, 47쪽). 교재는 가이드를 이름으로만 가리키고(`→ 온라인 가이드: 「이름」` 19곳, 9개), 1.1절과 부록 A 첫 쪽에 아래를 인쇄했습니다. 그래서 **계정 이름, 저장소 이름, 가이드 제목, 학생 저장소 이름은 바꿀 수 없습니다.**
+- 교재는 이 자료실보다 **먼저 조판**되었습니다(2026-11-20, 49쪽). 교재는 가이드를 이름으로만 가리키고(`→ 온라인 가이드: 「이름」` 19곳, 9개), 1.1절과 부록 A 첫 쪽에 아래를 인쇄했습니다. 그래서 **계정 이름, 저장소 이름, 가이드 제목, 학생 저장소 이름은 바꿀 수 없습니다.**
   - 자료실: `https://wild-mental.github.io/ax-wave-design-thinking-wildmental/` (이 저장소의 GitHub Pages)
   - 자료실 저장소: `https://github.com/wild-mental/ax-wave-design-thinking-wildmental` (워크시트 문서 원본 `worksheet.md`)
   - 강사 GitHub 아이디: `wild-mental` (학생이 비공개 저장소에 초대)
@@ -32,8 +32,8 @@
 
 1. `guides/<파일>.md`의 각 절에 있는 `[작성 예정]` 메모와 맨 아래 「작성 계획」을 읽습니다.
 2. 「작성 계획」의 교재 원문(상위 프로젝트 `docs/4-2/manuscript/`)을 읽습니다. 교재에 있는 내용은 되풀이하지 않고 절을 가리킵니다.
-3. 칸 이름 · 점검 질문은 `worksheet-template/worksheet.md`, 지시문은 `kits/claude-code-research-prompts.md`를 따릅니다.
-4. 원자료를 써야 하는 가이드(「관통 예제 리서치 보고서 전문」 · 「JTBD 심층 인터뷰 가이드」)는 상위 프로젝트 `docs/4-2/ONLINE_MATERIALS_PLAN.md` §3의 원천과 고칠 점을 따릅니다. 원자료 파일 자체나 정정 메모는 이 저장소에 넣지 않습니다.
+3. 칸 이름 · 완료 기준 체크리스트는 `worksheet-template/worksheet.md`, 지시문은 `kits/claude-code-research-prompts.md`를 따릅니다.
+4. 원자료를 써야 하는 가이드(「중심 예제 리서치 보고서 전문」 · 「JTBD 심층 인터뷰 가이드」)는 상위 프로젝트 `docs/4-2/ONLINE_MATERIALS_PLAN.md` §3의 원천과 고칠 점을 따릅니다. 원자료 파일 자체나 정정 메모는 이 저장소에 넣지 않습니다.
 5. 본문을 쓰고, 「준비 중」 안내 · `[작성 예정]` 표시 · 작성자용 주석과 「작성 계획」을 지웁니다. 제목 줄은 그대로 둡니다.
 6. `_context/RULES.md` §8 점검 명령을 돌립니다.
 7. `_context/TEXTBOOK_HUB_MAP.md`의 상태를 「작성」으로, README 「가이드 고침 이력」에 한 줄을 더합니다. 상위 프로젝트 `docs/4-2/ONLINE_MATERIALS_PLAN.md` §3의 상태도 같이 고칩니다.
