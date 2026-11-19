@@ -447,7 +447,7 @@ design-thinking-worksheet/
 아래 파일을 읽어 줘.
 - @worksheet.md 의 문제정의서
 - @research/causes-hypotheses.md 의 가설 목록
-- @research/segment-map.md 의 핵심 세그먼트
+- @research/segment-map.md 와 @research/solution-som.md 의 핵심 세그먼트
 - @research/market-tam-sam.md 의 TAM·SAM
 - @research/stakeholders.md 의 지불자
 
@@ -492,7 +492,7 @@ design-thinking-worksheet/
 먼저 아래 파일을 모두 읽고, 이해한 내용을 다섯 줄로 요약해 줘. 내가 요약을 확인한 뒤에 만들기 시작해.
 
 - 솔루션: @research/solution-som.md
-- 대상 세그먼트: @research/segment-map.md 의 핵심 세그먼트
+- 대상 세그먼트: @research/segment-map.md 와 @research/solution-som.md 의 핵심 세그먼트
 - 문제: @worksheet.md 의 문제정의서
 - 디자인 규칙: @DESIGN.md
 
@@ -540,7 +540,7 @@ design-thinking-worksheet/
 ### 사전 단계 · 페르소나 카드 고르기
 
 ```text
-@research/segment-map.md 의 핵심 세그먼트 분석과 @research/causes-hypotheses.md 의 가설 목록을 읽어 줘.
+@research/segment-map.md 와 @research/solution-som.md 의 핵심 세그먼트 분석과 @research/causes-hypotheses.md 의 가설 목록을 읽어 줘.
 
 핵심 세그먼트에 속하는 인터뷰 대상 페르소나 후보를 4~6명 제안해 줘.
 - 모든 후보는 가상 인물이야. 이름 옆에 「가상」을 붙여.
