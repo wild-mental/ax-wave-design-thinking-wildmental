@@ -3,7 +3,7 @@
 교재 조판본(2026-11-20, 컬러판 · 흑백판 47쪽, 두 판의 쪽 번호 같음)이 가리키는 것과 자료실에서 그것이 있는 곳을 한 줄씩 맞춘 표입니다.
 - **강사용 상태 추적표입니다.** 학생이 보는 매칭표는 자료실 첫 화면 `README.md`입니다. 쪽 · 이름이 바뀌면 두 곳과 `_context/guides.json`을 함께 고칩니다(RULES §4).
 - **쪽:** 인쇄된 쪽 번호입니다(PDF 쪽 = 인쇄 쪽). 「표시 쪽」은 그 절의 `→ 온라인 가이드` 줄이 인쇄된 쪽, 「절 시작」은 절 제목이 있는 쪽입니다.
-- **상태:** 2026-11-20 기준. 「자리표시」는 목차 · 정해진 짧은 내용 · `[작성 예정]` 표시만 있는 상태, 「작성」은 본문을 다 쓴 상태입니다.
+- **상태:** 2026-11-20 기준(사전 안내 · 가이드 9개 · 도움말 3개 본문 작성 반영). 「자리표시」는 목차 · 정해진 짧은 내용 · `[작성 예정]` 표시만 있는 상태, 「작성」은 본문을 다 쓴 상태입니다.
 - **자료실 주소 앞부분:** `https://wild-mental.github.io/ax-wave-design-thinking-wildmental/`
 
 쪽 번호를 뽑은 방법: 조판 HTML(`docs/4-2/print/textbook-color.html`)을 paged.js로 쪽 나눔한 뒤, 쪽마다 절 제목과 `→ 온라인 가이드` 줄의 위치를 읽었습니다. 원고가 바뀌어 다시 조판하면 이 표의 쪽도 다시 맞춥니다.
@@ -15,32 +15,32 @@
 | 3 · 11 · 41 | 온라인 자료실 (「이 교재를 쓰는 법」 4번, 1.1절 [실습 안내] 2번, 부록 A 첫 쪽 주소 표) | `README.md` (첫 화면 = 교재 매칭표) | 작성 |
 | 11 · 41 | 자료실 저장소 · 워크시트 문서 원본 `worksheet.md` | `worksheet-template/worksheet.md` (저장소 화면에서 열기) · 시작 안내 `worksheet-template/README.md` | 작성 (사본) |
 | 11 · 41~42 | 강사 GitHub 아이디 `wild-mental` | `README.md` 「처음 오셨다면」 · 「수업 연락처」 | 작성 |
-| 41 | 사전 안내 ("GitHub 계정과 Claude Code 데스크톱 앱의 계정·요금제는 사전 안내를 따릅니다") | `pre-course-notice.md` | 자리표시 (체크리스트 작성) |
+| 41 | 사전 안내 ("GitHub 계정과 Claude Code 데스크톱 앱의 계정·요금제는 사전 안내를 따릅니다") | `pre-course-notice.md` | 작성 |
 | 3 · 11~42 · 47 | 지시문 킷 (지시문 15개, 이름으로 찾음) | `kits/claude-code-research-prompts.md` | 작성 (사본) |
-| 3 · 19 · 23 · 29 · 41 | 관통 예제 리서치 보고서 전문 | `guides/running-example-research-report.md` | 자리표시 |
+| 3 · 19 · 23 · 29 · 41 | 관통 예제 리서치 보고서 전문 | `guides/running-example-research-report.md` | 작성 |
 
 ## 2. 온라인 가이드 9개 (`→ 온라인 가이드: 「이름」`, 교재 19곳)
 
 | 표시 쪽 | 절 시작 | 교재 절 | 가이드 이름 (인쇄본 그대로) | 자료실 파일 (`guides/`) | 상태 |
 |---|---|---|---|---|---|
-| 11 | 10 | 1.1 | 작업 폴더와 워크시트 저장소 준비 가이드 | `workspace-repo-setup-guide.md` | 자리표시 |
+| 11 | 10 | 1.1 | 작업 폴더와 워크시트 저장소 준비 가이드 | `workspace-repo-setup-guide.md` | 작성 |
 | 42 | 41 | 부록 A-1 | 〃 | 〃 | 〃 |
-| 14 | 11 | 1.2 | Claude Code 리서치 에이전트 사용 가이드 | `claude-code-research-agent-guide.md` | 자리표시 |
+| 14 | 11 | 1.2 | Claude Code 리서치 에이전트 사용 가이드 | `claude-code-research-agent-guide.md` | 작성 |
 | 15 | 14 | 1.3 | 〃 | 〃 | 〃 |
 | 42 | 42 | 부록 A-2 | 〃 | 〃 | 〃 |
-| 17 | 16 | 1.4 | 문제나무와 5 Whys 작성 가이드 | `problem-tree-5-whys-guide.md` | 자리표시 |
-| 19 | 17 | 1.5 | 관통 예제 리서치 보고서 전문 | `running-example-research-report.md` | 자리표시 |
+| 17 | 16 | 1.4 | 문제나무와 5 Whys 작성 가이드 | `problem-tree-5-whys-guide.md` | 작성 |
+| 19 | 17 | 1.5 | 관통 예제 리서치 보고서 전문 | `running-example-research-report.md` | 작성 |
 | 23 | 22 | 1.7 | 〃 | 〃 | 〃 |
 | 29 | 28 | 2.3 | 〃 | 〃 | 〃 |
-| 22 | 19 | 1.6 | TAM·SAM·SOM과 세그먼트 맵 가이드 | `tam-sam-som-segment-map-guide.md` | 자리표시 |
+| 22 | 19 | 1.6 | TAM·SAM·SOM과 세그먼트 맵 가이드 | `tam-sam-som-segment-map-guide.md` | 작성 |
 | 27 | 26 | 2.2 | 〃 | 〃 | 〃 |
-| 32 | 29 | 2.4 | 개념 프로토타입 만들기 가이드 | `concept-prototype-guide.md` | 자리표시 |
+| 32 | 29 | 2.4 | 개념 프로토타입 만들기 가이드 | `concept-prototype-guide.md` | 작성 |
 | 43 | 43 | 부록 A-3 | 〃 | 〃 | 〃 |
-| 35 | 32 | 2.5 | JTBD 심층 인터뷰 가이드 | `jtbd-interview-guide.md` | 자리표시 (20분 질문 세트 · 진행 순서 · 기록지 작성) |
+| 35 | 32 | 2.5 | JTBD 심층 인터뷰 가이드 | `jtbd-interview-guide.md` | 작성 |
 | 37 | 35 | 2.6 | 〃 | 〃 | 〃 |
-| 39 | 37 | 2.7 | AI 가상 인터뷰 가이드 | `ai-virtual-interview-guide.md` | 자리표시 (세 규칙 · 파일 표시 규칙 작성) |
+| 39 | 37 | 2.7 | AI 가상 인터뷰 가이드 | `ai-virtual-interview-guide.md` | 작성 |
 | 43 | 43 | 부록 A-4 | 〃 | 〃 | 〃 |
-| 40 | 39 | 2.8 | 갤러리 워크 발표 가이드 | `gallery-walk-guide.md` | 자리표시 |
+| 40 | 39 | 2.8 | 갤러리 워크 발표 가이드 | `gallery-walk-guide.md` | 작성 |
 
 00-front(3쪽) 「이 교재를 쓰는 법」 5번의 `→ 온라인 가이드: 「가이드 이름」`은 표시 범례의 예시이므로 가이드가 아닙니다.
 
@@ -91,8 +91,8 @@
 
 | 자료실 위치 | 내용 | 상태 |
 |---|---|---|
-| `help/stuck-guide.md` · `help/other-coding-tools.md` · `help/windows-notes.md` | 도움말 3개 (막혔을 때 모음 · 다른 AI 코딩 도구 대응 · Windows 메모) | 자리표시 |
+| `help/stuck-guide.md` · `help/other-coding-tools.md` · `help/windows-notes.md` | 도움말 3개 (막혔을 때 모음 · 다른 AI 코딩 도구 대응 · Windows 메모) | 작성 |
 | `README.md` 「처음 오셨다면」 · 「가이드 고침 이력」 | 첫 준비 다섯 단계, 가이드를 고친 날짜와 한 줄 | 작성 |
 | `worksheet-template/README.md` | 워크시트 원본 시작 안내 | 작성 |
-| `guides/images/` | 가이드 캡처 자리 2곳 (아직 비어 있음) | 자리표시 |
+| `guides/images/` | 가이드 캡처 자리 2곳 (`workspace-repo-setup-guide-1.png` · `-2.png`) | 캡처 1곳 작성 · 1곳(Claude Code 입력창 아래 줄) 강사 촬영 대기 |
 | `_context/` | 작성 규칙, 이 매칭표, 가이드 목록(`guides.json`), 점검 · 동기화 스크립트 (사이트에는 안 보임) | 작성 |

@@ -100,6 +100,7 @@
 | 날짜 | 바뀐 것 |
 |---|---|
 | 2026-11-20 | 자료실을 열었습니다. 교재 매칭표, 워크시트 원본, 지시문 킷을 올렸습니다. 온라인 가이드 9개와 도움말 3개, 사전 안내는 준비 중이며 수업 전에 채웁니다 |
+| 2026-11-20 | 사전 안내, 온라인 가이드 9개, 도움말 3개(막혔을 때 모음 · 다른 AI 코딩 도구로 할 때 · Windows 사용자 메모)의 내용을 모두 채웠습니다 |
 
 [ws]: https://github.com/wild-mental/ax-wave-design-thinking-wildmental/blob/main/worksheet-template/worksheet.md
 [ws-start]: https://github.com/wild-mental/ax-wave-design-thinking-wildmental/tree/main/worksheet-template
