@@ -21,7 +21,7 @@
 | `prototype/` | 개념 프로토타입 `concept-prototype.html` |
 | `interviews/` | 페르소나 카드, 인터뷰 계획서 · 기록 · 결과 보고서 |
 
-하루를 마치기 전에 작업 폴더 안의 `worksheet.md`와 세 폴더를 **Add file → Upload files**로 저장소에 올립니다(교재 부록 A-1).
+하루를 마칠 때마다 작업 폴더 안의 `worksheet.md`와 세 폴더를 **Add file → Upload files**로 저장소에 올립니다(교재 부록 A-1).
 
 ## 꼭 지킬 것
 

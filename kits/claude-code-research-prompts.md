@@ -34,7 +34,7 @@ design-thinking-worksheet/
     └── interview-report.md       ← 결과 보고서 · 요약 카드 · 고용·해고 여정
 ```
 
-하루를 마치기 전에 이 폴더의 파일을 GitHub 웹 화면의 Add file → Upload files로 내 비공개 저장소 `design-thinking-worksheet`에 올립니다.
+하루를 마칠 때마다 이 폴더의 파일을 GitHub 웹 화면의 Add file → Upload files로 내 비공개 저장소 `design-thinking-worksheet`에 올립니다.
 
 ## 함께 지키는 작업 규칙
 

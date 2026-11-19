@@ -1,10 +1,10 @@
 # 작업 폴더와 워크시트 저장소 준비 가이드
 
-교재: 1.1절 이틀간의 과목 흐름 (9쪽) · 부록 A-1 작업 폴더와 비공개 저장소 (41~42쪽) · 쓰는 날: Day 1 오전, 그리고 하루를 마치기 전마다 · 쓰는 곳: GitHub 비공개 저장소 `design-thinking-worksheet`와 내 컴퓨터의 작업 폴더 `design-thinking-worksheet/`
+교재: 1.1절 이틀간의 과목 흐름 (9쪽) · 부록 A-1 작업 폴더와 비공개 저장소 (41~42쪽) · 쓰는 날: Day 1 오전, 그리고 하루를 마칠 때마다 · 쓰는 곳: GitHub 비공개 저장소 `design-thinking-worksheet`와 내 컴퓨터의 작업 폴더 `design-thinking-worksheet/`
 
 ## 이 가이드에서 볼 것
 
-이틀 동안의 결과물은 두 곳에 둡니다. 수업 중에는 내 컴퓨터의 **작업 폴더**에서 일하고, 하루를 마치기 전에 GitHub의 **비공개 저장소**에 올립니다. 이 가이드는 교재 1.1절 [실습 안내]와 부록 A-1의 흐름을 실제 화면의 버튼 이름과 위치로 따라갑니다. 두 곳을 처음 한 번 만드는 순서와, 작업 폴더의 파일을 저장소에 올리는 순서를 다룹니다.
+이틀 동안의 결과물은 두 곳에 둡니다. 수업 중에는 내 컴퓨터의 **작업 폴더**에서 일하고, 하루를 마칠 때마다 GitHub의 **비공개 저장소**에 올립니다. 이 가이드는 교재 1.1절 [실습 안내]와 부록 A-1의 흐름을 실제 화면의 버튼 이름과 위치로 따라갑니다. 두 곳을 처음 한 번 만드는 순서와, 작업 폴더의 파일을 저장소에 올리는 순서를 다룹니다.
 
 - Git 명령은 쓰지 않고 github.com 웹 화면에서만 작업합니다.
 - Mac과 Windows의 GitHub 화면은 같고 단축키만 다릅니다(Mac `Cmd` = Windows `Ctrl`).
@@ -15,7 +15,7 @@
 |---|---|---|
 | 어디에 | 내 컴퓨터 (바탕화면이나 문서 폴더) | github.com 내 계정 |
 | 이름 | `design-thinking-worksheet/` | `design-thinking-worksheet` (**Private**) |
-| 무엇을 | Claude Code가 이 폴더를 열고 파일을 만들고 고칩니다. `worksheet.md`도 여기서 채웁니다 | 하루를 마치기 전에 작업 폴더의 파일을 올려 두는 곳. 강사 `wild-mental`이 봅니다 |
+| 무엇을 | Claude Code가 이 폴더를 열고 파일을 만들고 고칩니다. `worksheet.md`도 여기서 채웁니다 | 하루를 마칠 때마다 작업 폴더의 파일을 올려 두는 곳. 강사 `wild-mental`이 봅니다 |
 
 작업 폴더 안의 모양입니다(교재 부록 A-1, 지시문 킷과 같음).
 
@@ -105,7 +105,7 @@ design-thinking-worksheet/
 - 세 폴더가 엉뚱한 곳에 생겼다 → "방금 만든 세 폴더가 어디에 있는지 전체 경로로 알려 줘."라고 묻습니다. `design-thinking-worksheet` 바로 아래가 아니면 폴더 선택을 다시 하고 지시문을 다시 보냅니다.
 - `worksheet.md`를 고치겠다고 한다 → 허락하지 않고 "worksheet.md는 고치지 마. 세 폴더만 만들어 줘."라고 보냅니다.
 
-## 5. 하루를 마치기 전에: 저장소에 올리기
+## 5. 하루를 마칠 때: 저장소에 올리기
 
 1. Claude Code가 작업 중이면 끝날 때까지 기다립니다. 직접 고치던 파일이 있으면 저장합니다.
 2. 내 저장소 첫 화면에서 **Add file → Upload files**를 누릅니다.
@@ -135,7 +135,7 @@ design-thinking-worksheet/
 - [ ] Settings → Collaborators에 `wild-mental`이 수락 대기 또는 수락된 상태로 있다
 - [ ] 내 컴퓨터의 `design-thinking-worksheet/` 안에 `worksheet.md`와 `research/` · `prototype/` · `interviews/`가 있다
 - [ ] Claude Code의 폴더 선택에 `design-thinking-worksheet`가 보이고, 「작업 폴더 준비 지시문」의 점검 포인트 세 가지를 확인했다
-- [ ] 하루를 마치기 전에 올린 뒤, 저장소의 `research` 폴더 안에서 오늘 만든 파일을 찾았다
+- [ ] 하루를 마칠 때 올린 뒤, 저장소의 `research` 폴더 안에서 오늘 만든 파일을 찾았다
 
 ## 막혔을 때
 

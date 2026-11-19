@@ -55,7 +55,7 @@
 | 1.4 | 16 | [문제나무와 5 Whys 작성 가이드](guides/problem-tree-5-whys-guide.md) | [워크시트][ws] 「핵심 원인을 찾아낸 문제나무 구조도」 · [킷][kit] 「문제나무와 5 Whys 정리 지시문」 |
 | 1.5 | 18 | [중심 예제 리서치 보고서 전문](guides/running-example-research-report.md) | [워크시트][ws] 「내가 풀 문제를 한 장에 고정한 문제정의서」 · [킷][kit] 「문제정의서 초안 지시문」 |
 | 1.6 | 21 | [TAM·SAM·SOM과 세그먼트 맵 가이드](guides/tam-sam-som-segment-map-guide.md) | [워크시트][ws] 「문제의식에서 시장을 좁혀 간 TAM·SAM·SOM 표」(TAM·SAM) · [킷][kit] 「광범위 탐색과 범위 축소 지시문」 |
-| 1.7 | 22 | [중심 예제 리서치 보고서 전문](guides/running-example-research-report.md) | [워크시트][ws] 「틀릴 수 있게 쓴 검증 가설 목록」 · [킷][kit] 「핵심 원인 분석과 가설 수립 지시문」 · 하루를 마치기 전에 저장소에 올리기 |
+| 1.7 | 22 | [중심 예제 리서치 보고서 전문](guides/running-example-research-report.md) | [워크시트][ws] 「틀릴 수 있게 쓴 검증 가설 목록」 · [킷][kit] 「핵심 원인 분석과 가설 수립 지시문」 · 하루를 마칠 때 저장소에 올리기 |
 
 ### Day 2 · 12/1 (화) — Part 2 가설을 보여 주고 검증하기
 
@@ -63,11 +63,11 @@
 |---|---|---|---|
 | 2.2 | 26 | [TAM·SAM·SOM과 세그먼트 맵 가이드](guides/tam-sam-som-segment-map-guide.md) | [워크시트][ws] 「행동과 맥락으로 시장을 나눈 세그먼트 맵」 · [킷][kit] 「정량 검증과 세그먼트 맵 지시문」 |
 | 2.3 | 28 | [중심 예제 리서치 보고서 전문](guides/running-example-research-report.md) | [워크시트][ws] 「문제의식에서 시장을 좁혀 간 TAM·SAM·SOM 표」(SOM) · 「가설과 이어진 솔루션 정의」 · [킷][kit] 「솔루션 정의와 SOM 지시문」 |
-| 2.4 | 30 | [개념 프로토타입 만들기 가이드](guides/concept-prototype-guide.md) | [워크시트][ws] 「인터뷰에서 보여 줄 1~3화면 개념 프로토타입」 · [킷][kit] 「개념 프로토타입 지시문」 |
-| 2.5 | 33 | [JTBD 심층 인터뷰 가이드](guides/jtbd-interview-guide.md) | [워크시트][ws] 「핵심 세그먼트에서 고른 인터뷰 대상 페르소나 카드」 · 「PARTS+C 지시문으로 만든 JTBD 인터뷰 계획서」 · [킷][kit] 「JTBD 인터뷰 계획서 지시문」 |
-| 2.6 | 35 | [JTBD 심층 인터뷰 가이드](guides/jtbd-interview-guide.md) | [워크시트][ws] 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」의 짝 롤플레잉 열 (지시문 없이 직접 기록) |
-| 2.7 | 37 | [AI 가상 인터뷰 가이드](guides/ai-virtual-interview-guide.md) | [워크시트][ws] 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」 · 「고객이 해내려는 일을 한 장에 담은 JTBD 요약 카드」 · 「4 Forces로 그린 고용·해고 여정」 · [킷][kit] 「AI 가상 인터뷰 지시문」 · 「인터뷰 결과 정리 지시문」 |
-| 2.8 | 38 | [갤러리 워크 발표 가이드](guides/gallery-walk-guide.md) | [워크시트][ws] 「문제정의와 가설을 유지·수정·기각한 이유를 적은 개정 메모」 · [킷][kit] 「개정 메모 지시문」 · 수업을 마치기 전에 저장소에 올리기 |
+| 2.4 | 31 | [개념 프로토타입 만들기 가이드](guides/concept-prototype-guide.md) | [워크시트][ws] 「인터뷰에서 보여 줄 1~3화면 개념 프로토타입」 · [킷][kit] 「개념 프로토타입 지시문」 |
+| 2.5 | 34 | [JTBD 심층 인터뷰 가이드](guides/jtbd-interview-guide.md) | [워크시트][ws] 「핵심 세그먼트에서 고른 인터뷰 대상 페르소나 카드」 · 「PARTS+C 지시문으로 만든 JTBD 인터뷰 계획서」 · [킷][kit] 「JTBD 인터뷰 계획서 지시문」 |
+| 2.6 | 36 | [JTBD 심층 인터뷰 가이드](guides/jtbd-interview-guide.md) | [워크시트][ws] 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」의 짝 롤플레잉 열 (지시문 없이 직접 기록) |
+| 2.7 | 38 | [AI 가상 인터뷰 가이드](guides/ai-virtual-interview-guide.md) | [워크시트][ws] 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」 · 「고객이 해내려는 일을 한 장에 담은 JTBD 요약 카드」 · 「4 Forces로 그린 고용·해고 여정」 · [킷][kit] 「AI 가상 인터뷰 지시문」 · 「인터뷰 결과 정리 지시문」 |
+| 2.8 | 39 | [갤러리 워크 발표 가이드](guides/gallery-walk-guide.md) | [워크시트][ws] 「문제정의와 가설을 유지·수정·기각한 이유를 적은 개정 메모」 · [킷][kit] 「개정 메모 지시문」 · 수업을 마치기 전에 저장소에 올리기 |
 
 ## 도움말
 
