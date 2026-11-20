@@ -9,7 +9,7 @@
 용어 풀이는 교재 부록 B와 같습니다.
 
 - TAM(Total Addressable Market, 전체 시장: 문제의식이 닿는 가장 넓은 시장의 규모)
-- SAM(Serviceable Available Market, 유효 시장: TAM 가운데 내 서비스 방식으로 닿을 수 있는 시장)
+- SAM(Serviceable Available Market, 유효 시장: TAM 가운데 내가 처음 다가갈 수 있는 대상·지역·채널로 좁힌 시장)
 - SOM(Serviceable Obtainable Market, 수익 시장: SAM 가운데 처음에 실제로 얻으려는 목표 시장)
 - ARPU(Average Revenue Per User, 사용자당 평균 매출: 고객 한 명이 1년(또는 한 달)에 내는 평균 금액)
 - 세그먼트 맵(행동과 맥락을 기준으로 한 두 축으로 시장을 나눠, 어느 묶음을 고를지 한눈에 보는 그림)
