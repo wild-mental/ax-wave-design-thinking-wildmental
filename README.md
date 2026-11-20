@@ -14,7 +14,7 @@
 
 1. 이 자료실 주소 `https://wild-mental.github.io/ax-wave-design-thinking-wildmental/`를 즐겨찾기에 넣습니다.
 2. GitHub에서 **비공개(Private)** 저장소 `design-thinking-worksheet`를 새로 만듭니다.
-3. 워크시트 원본 [worksheet.md][ws]를 열고 **Copy raw file**로 전체를 복사해, 내 저장소에 같은 이름 `worksheet.md`로 붙여 넣습니다.
+3. 자료실 원본(이 자료실의 GitHub 화면)에서 워크시트 원본 [worksheet.md][ws]를 열고 **Copy raw file**로 전체를 복사해, 내 저장소에 같은 이름 `worksheet.md`로 붙여 넣습니다.
 4. 내 저장소의 **Settings → Collaborators → Add people**에서 강사 GitHub 아이디 `wild-mental`을 초대합니다.
 5. 내 컴퓨터에 같은 이름의 작업 폴더 `design-thinking-worksheet/`를 만들어 `worksheet.md`를 넣고, Claude Code 데스크톱 앱에서 그 폴더를 엽니다.
 

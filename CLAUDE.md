@@ -6,12 +6,12 @@
 
 - 교재는 이 자료실보다 **먼저 조판**되었습니다(2026-11-20, 49쪽). 교재는 가이드를 이름으로만 가리키고(`→ 온라인 가이드: 「이름」` 19곳, 9개), 1.1절과 부록 A 첫 쪽에 아래를 인쇄했습니다. 그래서 **계정 이름, 저장소 이름, 가이드 제목, 학생 저장소 이름은 바꿀 수 없습니다.**
   - 자료실: `https://wild-mental.github.io/ax-wave-design-thinking-wildmental/` (이 저장소의 GitHub Pages)
-  - 자료실 저장소: `https://github.com/wild-mental/ax-wave-design-thinking-wildmental` (워크시트 문서 원본 `worksheet.md`)
+  - 자료실 원본: `https://github.com/wild-mental/ax-wave-design-thinking-wildmental` (이 저장소의 GitHub 화면, 워크시트 문서 원본 `worksheet.md`. 학생의 비공개 저장소와 다름)
   - 강사 GitHub 아이디: `wild-mental` (학생이 비공개 저장소에 초대)
   - 학생 비공개 저장소이자 작업 폴더 이름: `design-thinking-worksheet`
 - 강사 결정 (상위 프로젝트 `docs/4-2/TEXTBOOK_SPEC.md` §1-4-12 · §1-4-14):
   - 4-2 전용 새 공개 저장소입니다. 4-1 자료실(`ax-wave-uxui-wildmental`)은 건드리지 않습니다.
-  - 학생은 비공개 저장소 `design-thinking-worksheet`를 새로 만들고, `worksheet-template/worksheet.md`를 Copy raw file로 복사해 붙여 넣은 뒤 `wild-mental`을 초대합니다. 내 컴퓨터의 같은 이름 폴더를 Claude Code 작업 폴더로 쓰고, 하루를 마치기 전에 Add file → Upload files로 올립니다. Git 명령은 다루지 않습니다.
+  - 학생은 비공개 저장소 `design-thinking-worksheet`를 새로 만들고, `worksheet-template/worksheet.md`를 Copy raw file로 복사해 붙여 넣은 뒤 `wild-mental`을 초대합니다. 내 컴퓨터의 같은 이름 폴더를 Claude Code 작업 폴더로 쓰고, 하루를 마칠 때마다 작업 폴더 안의 파일과 폴더를 모두(`worksheet.md`, 세 폴더, 복사해 둔 `DESIGN.md`) Add file → Upload files로 올립니다. Git 명령은 다루지 않습니다.
   - 개념 프로토타입은 배포하지 않습니다. 화면 녹화는 만들지 않습니다.
   - ChatGPT 공유 링크 같은 외부 대화 링크는 인쇄본에 넣지 않고, 필요하면 자료실에만 둡니다.
 - 수업: 2026-11-30(월) ~ 12-01(화), Day 1~2 = 교재 Part 1~2.

@@ -41,7 +41,7 @@
 
 ### TAM·SAM·SOM과 세그먼트 맵
 
-- **내 고객군을 직접 센 통계가 없다** → 내 고객군을 포함하는 더 큰 통계 두세 개와 거기서 비율을 추정할 근거를 찾아 계산식으로 보여 달라고 하고, 근거 없는 비율에는 "가정"을 붙입니다. 자세히: 「[TAM·SAM·SOM과 세그먼트 맵 가이드](../guides/tam-sam-som-segment-map-guide.md)」
+- **내 고객군을 직접 센 통계가 없다** → 내 고객군을 포함하는 더 큰 통계 두세 개와 거기서 비율을 추정할 근거를 찾아 계산식으로 보여 달라고 하고, 출처 없는 비율은 "추측"으로 받은 뒤 내가 검토해 받아들인 것만 "가정"으로 바꿉니다. 자세히: 「[TAM·SAM·SOM과 세그먼트 맵 가이드](../guides/tam-sam-som-segment-map-guide.md)」
 - **글로벌 시장 숫자만 가져온다** → "글로벌 숫자는 참고로 한 줄만 남기고, 〈국내〉 기준 숫자를 정부 통계나 공공 기관 · 협회 자료에서 다시 찾아 줘. 없으면 없다고 써 줘."라고 보냅니다. 자세히: 「[TAM·SAM·SOM과 세그먼트 맵 가이드](../guides/tam-sam-som-segment-map-guide.md)」
 - **계산식이 이해되지 않는다** → 계산식을 한 단계씩 풀고, 숫자마다 출처에서 온 것인지 · 가정인지 · 앞 계산에서 나온 것인지 표로 보여 달라고 합니다(숫자는 바꾸지 않게). 그래도 모르겠는 숫자에는 "확인 필요"를 붙여 둡니다. 자세히: 「[TAM·SAM·SOM과 세그먼트 맵 가이드](../guides/tam-sam-som-segment-map-guide.md)」
 - **TAM과 SAM이 거의 같거나 SAM이 더 크다** → 두 숫자의 단위나 기준 연도가 다를 때가 많습니다. "TAM과 SAM의 단위 · 기준 연도 · 출처를 나란히 보여 주고, 같은 기준으로 맞춰 다시 계산해 줘."라고 보냅니다. 자세히: 「[TAM·SAM·SOM과 세그먼트 맵 가이드](../guides/tam-sam-som-segment-map-guide.md)」
@@ -90,7 +90,7 @@
 ## GitHub (워크시트 저장소 · 올리기)
 
 - **Copy raw file 아이콘이 안 보인다** → 창을 넓히거나, **Raw**를 눌러 열린 글 화면에서 `Cmd+A` → `Cmd+C`(Windows `Ctrl+A` → `Ctrl+C`)로 복사합니다. 자료실(`wild-mental.github.io`) 화면을 보고 있다면 첫 화면의 워크시트 링크로 GitHub 화면을 엽니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」
-- **Settings 탭이 없다** → 창이 좁으면 위쪽 탭 끝의 **⋯** 안에 있습니다. 그래도 없으면 자료실 저장소를 보고 있는 것이니, 주소에 내 아이디와 `design-thinking-worksheet`가 있는지 봅니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」
+- **Settings 탭이 없다** → 창이 좁으면 위쪽 탭 끝의 **⋯** 안에 있습니다. 그래도 없으면 내 저장소가 아니라 자료실 원본(이 자료실의 GitHub 화면)을 보고 있는 것이니, 주소에 내 아이디와 `design-thinking-worksheet`가 있는지 봅니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」
 - **`wild-mental`이 검색되지 않거나 초대가 사라졌다** → 철자(가운데 하이픈)를 확인합니다. 초대는 7일 안에 수락되지 않으면 사라지므로, 목록에 없으면 다시 초대합니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」
 - **Download raw file을 눌렀더니 파일이 저장되지 않고 글 화면이 열린다** → 그 화면에서 `Cmd+S`(Windows `Ctrl+S`)로 작업 폴더에 저장하고, 이름이 `worksheet.md`인지, 끝에 `.txt`가 붙지 않았는지 확인합니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」
 - **Upload files에 폴더가 끌려가지 않거나 폴더 안 파일이 올라가지 않는다** → 다른 브라우저로 다시 해 봅니다. 저장소에 이미 그 폴더가 있다면 그 폴더에 들어가 **Add file → Upload files**로 그 안의 파일만 골라 올려도 됩니다. 자세히: 「[작업 폴더와 워크시트 저장소 준비 가이드](../guides/workspace-repo-setup-guide.md)」

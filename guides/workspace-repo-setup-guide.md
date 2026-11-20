@@ -6,7 +6,7 @@
 
 이틀 동안의 결과물은 두 곳에 둡니다. 수업 중에는 내 컴퓨터의 **작업 폴더**에서 일하고, 하루를 마칠 때마다 GitHub의 **비공개 저장소**에 올립니다. 이 가이드는 교재 1.1절 [실습 안내]와 부록 A-1의 흐름을 실제 화면의 버튼 이름과 위치로 따라갑니다. 두 곳을 처음 한 번 만드는 순서와, 작업 폴더의 파일을 저장소에 올리는 순서를 다룹니다.
 
-- Git 명령은 쓰지 않고 github.com 웹 화면에서만 작업합니다.
+- Git 명령(개발자가 터미널에서 쓰는 명령)은 쓰지 않고 github.com 웹 화면에서만 작업합니다.
 - Mac과 Windows의 GitHub 화면은 같고 단축키만 다릅니다(Mac `Cmd` = Windows `Ctrl`).
 
 ## 두 곳 한눈에
@@ -21,7 +21,8 @@
 
 ```text
 design-thinking-worksheet/
-├── worksheet.md                  ← 자료실의 워크시트 원본을 복사한 것
+├── worksheet.md                  ← 자료실 원본의 워크시트를 복사한 것
+├── DESIGN.md                     ← (선택) 앞 과목에서 만든 나만의 DESIGN.md 사본 (2.4)
 ├── research/
 │   ├── status-report.md          ← 현황 분석 리서치 (1.3)
 │   ├── stakeholders.md           ← 이해관계자 분석 (1.3)
@@ -47,7 +48,7 @@ design-thinking-worksheet/
 
 1. github.com에 로그인하고 오른쪽 위 **+** 단추 → **New repository**를 누릅니다.
 2. **Repository name**에 `design-thinking-worksheet`를 씁니다. 공개 범위 선택에서 반드시 **Private**(비공개)를 고릅니다. README 추가 같은 나머지 선택 항목은 건드리지 않고 **Create repository**를 누릅니다.
-3. 새 탭에서 워크시트 원본을 엽니다. 자료실 첫 화면의 워크시트 링크를 누르거나 여기 [`worksheet.md` 원본](https://github.com/wild-mental/ax-wave-design-thinking-wildmental/blob/main/worksheet-template/worksheet.md)을 누르면 GitHub 화면에서 열립니다. 파일 내용 위쪽 막대 오른쪽의 **Copy raw file**(네모 두 개가 겹친 복사 아이콘)을 누릅니다. 눈에 띄는 변화가 없어도 내용 전체가 복사된 것입니다.
+3. 새 탭에서 워크시트 원본을 엽니다. 자료실 첫 화면의 워크시트 링크를 누르거나 여기 [`worksheet.md` 원본](https://github.com/wild-mental/ax-wave-design-thinking-wildmental/blob/main/worksheet-template/worksheet.md)을 누르면 **자료실 원본**(GitHub 화면)에서 열립니다. 파일 내용 위쪽 막대 오른쪽의 **Copy raw file**(네모 두 개가 겹친 복사 아이콘)을 누릅니다. 눈에 띄는 변화가 없어도 내용 전체가 복사된 것입니다.
 
 ![worksheet.md 원본 화면의 파일 위쪽 막대. 왼쪽에 Preview · Code · Blame 탭이 있고, 오른쪽의 Raw 버튼, 네모 두 개가 겹친 복사 아이콘, 아래 화살표 모양의 내려받기 아이콘 세 개에 주황색 테두리가 쳐져 있다. 막대 아래에 워크시트 제목이 보인다](images/workspace-repo-setup-guide-1.png)
 
@@ -109,7 +110,7 @@ design-thinking-worksheet/
 
 1. Claude Code가 작업 중이면 끝날 때까지 기다립니다. 직접 고치던 파일이 있으면 저장합니다.
 2. 내 저장소 첫 화면에서 **Add file → Upload files**를 누릅니다.
-3. Finder(Windows는 파일 탐색기)에서 작업 폴더를 **열고**, 그 안의 `worksheet.md`와 `research` · `prototype` · `interviews` 폴더를 함께 골라 브라우저의 끌어다 놓는 칸에 놓습니다. 여러 개를 고를 때는 Mac `Cmd`, Windows `Ctrl`을 누른 채 하나씩 누릅니다. 작업 폴더 자체를 끌어다 놓지 않습니다.
+3. Finder(Windows는 파일 탐색기)에서 작업 폴더를 **열고**, 그 **안의** 파일과 폴더를 모두(`worksheet.md`, 세 폴더, 복사해 둔 `DESIGN.md`) 골라 브라우저의 끌어다 놓는 칸에 놓습니다. 폴더 안에서 Mac `Cmd+A`(Windows `Ctrl+A`)를 누르면 모두 골라집니다. 작업 폴더 자체를 끌어다 놓지 않습니다.
 4. 올라갈 파일 목록이 보이면 아래쪽의 **Commit changes**를 누릅니다. 같은 이름의 파일은 새 내용으로 바뀝니다.
 5. 저장소 첫 화면에서 `research` 폴더를 눌러 들어가, 오늘 만든 파일이 모두 있는지 봅니다.
 6. 저장소 이름 옆에 **Private** 표시가 있는지, Settings → Collaborators에 `wild-mental`이 있는지 봅니다.
@@ -126,7 +127,7 @@ design-thinking-worksheet/
 - **이름 철자가 다르다** (`design-thinking-worksheets`, `design thinking worksheet`, `Worksheet.md`) → 저장소 이름은 Settings 첫 화면(General)의 Repository name 칸에서 고치고 **Rename**을 누릅니다. 저장소의 파일 이름은 파일을 열고 연필 아이콘을 눌러 위쪽 이름 칸만 고친 뒤 **Commit changes...** → **Commit changes**로 저장합니다(내용은 건드리지 않습니다). 작업 폴더의 이름은 Finder · 파일 탐색기에서 고칩니다.
 - **다른 폴더를 열고 시작했다** (다운로드 폴더나 `research` 폴더) → 결과 파일이 엉뚱한 곳에 생깁니다. 폴더 선택에서 `design-thinking-worksheet` 맨 위 폴더를 다시 고르고 "이 폴더에 무엇이 있는지 알려 줘"로 확인합니다. 엉뚱한 곳에 생긴 파일은 Finder · 파일 탐색기에서 작업 폴더의 맞는 하위 폴더로 옮깁니다.
 - **GitHub 웹 화면에서 `worksheet.md`를 고친 뒤 작업 폴더의 옛 파일을 올려 덮어썼다** → 저장소의 `worksheet.md` 화면 오른쪽 위 **History**를 누르고, 덮어쓰기 바로 앞의 저장 기록을 엽니다. 빨간 줄(지운 것)로 보이는 글을 복사해 작업 폴더의 `worksheet.md`에 붙여 넣고 다시 올립니다. 앞으로는 작업 폴더에서만 고칩니다.
-- **작업 폴더 자체를 끌어다 놓아 한 단계 깊은 폴더가 생겼다** (저장소에 `design-thinking-worksheet/research/…`) → 작업 폴더를 열고 그 **안의** `worksheet.md`와 세 폴더를 다시 올립니다. 저장소 맨 위에 `worksheet.md`와 세 폴더가 있으면 되고, 안쪽에 잘못 생긴 폴더는 그대로 두어도 됩니다.
+- **작업 폴더 자체를 끌어다 놓아 한 단계 깊은 폴더가 생겼다** (저장소에 `design-thinking-worksheet/research/…`) → 작업 폴더를 열고 그 **안의** 파일과 폴더를 모두(`worksheet.md`, 세 폴더, 복사해 둔 `DESIGN.md`) 다시 올립니다. 저장소 맨 위에 `worksheet.md`와 세 폴더가 있으면 되고, 안쪽에 잘못 생긴 폴더는 그대로 두어도 됩니다.
 
 ## 제대로 됐는지 확인
 
@@ -140,7 +141,7 @@ design-thinking-worksheet/
 ## 막혔을 때
 
 - **Copy raw file 아이콘이 안 보입니다.** 창이 좁으면 아이콘이 숨습니다. 창을 넓히거나, **Raw**를 눌러 열린 글 화면에서 `Cmd+A` → `Cmd+C`(Windows `Ctrl+A` → `Ctrl+C`)로 복사합니다. 자료실(`wild-mental.github.io`) 화면을 보고 있다면 첫 화면의 워크시트 링크로 GitHub 화면을 엽니다.
-- **Settings 탭이 없습니다.** 창이 좁으면 위쪽 탭 끝의 **⋯** 안에 있습니다. 그래도 없으면 내 저장소가 아니라 자료실 저장소를 보고 있는 것입니다. 주소에 내 아이디와 `design-thinking-worksheet`가 있는지 봅니다.
+- **Settings 탭이 없습니다.** 창이 좁으면 위쪽 탭 끝의 **⋯** 안에 있습니다. 그래도 없으면 내 저장소가 아니라 자료실 원본(이 자료실의 GitHub 화면)을 보고 있는 것입니다. 주소에 내 아이디와 `design-thinking-worksheet`가 있는지 봅니다.
 - **`wild-mental`이 검색되지 않거나 초대가 사라졌습니다.** 철자(가운데 하이픈)를 확인합니다. 초대는 7일 안에 수락되지 않으면 사라지므로, 목록에 없으면 다시 초대합니다.
 - **Download raw file을 눌렀더니 파일이 저장되지 않고 글 화면이 열립니다.** 그 화면에서 `Cmd+S`(Windows `Ctrl+S`)로 작업 폴더에 저장합니다. 저장한 뒤 이름이 `worksheet.md`인지, 끝에 `.txt`가 붙지 않았는지 확인합니다.
 - **Upload files에 폴더가 끌려가지 않거나 폴더 안 파일이 올라가지 않습니다.** 다른 브라우저로 다시 해 봅니다. 저장소에 이미 그 폴더가 있다면, 저장소에서 그 폴더를 눌러 들어간 뒤 **Add file → Upload files**로 그 안의 파일만 골라 올려도 됩니다.

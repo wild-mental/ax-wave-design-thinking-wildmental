@@ -33,7 +33,7 @@
 | 무엇 | 값 | 교재 |
 |---|---|---|
 | 온라인 자료실 | `https://wild-mental.github.io/ax-wave-design-thinking-wildmental/` | 1.1절 (9쪽) · 부록 A 첫 쪽 (41쪽) |
-| 자료실 저장소 | `https://github.com/wild-mental/ax-wave-design-thinking-wildmental` (워크시트 문서 원본 `worksheet.md`) | 부록 A 첫 쪽 (41쪽) |
+| 자료실 원본 | `https://github.com/wild-mental/ax-wave-design-thinking-wildmental` (GitHub 화면 · 워크시트 문서 원본 `worksheet.md`. 학생의 비공개 저장소와 다름) | 부록 A 첫 쪽 (41쪽) |
 | 강사 GitHub 아이디 | `wild-mental` | 1.1절 · 부록 A-1 |
 | 학생 비공개 저장소 · 작업 폴더 | `design-thinking-worksheet` | 1.1절 · 부록 A-1 · 부록 C |
 
@@ -70,7 +70,7 @@ design-thinking-worksheet/
 - 예제 이름: 「AI 기반 온라인 비즈니스 컨설팅 솔루션」만 씁니다. 원자료에 쓰인 옛 이름은 쓰지 않습니다. 예제는 두 종류입니다. 이틀 내내 따라가는 예제는 **중심 예제**, 한 방법의 생김새만 짧게 보여 주는 예는 **참고 사례**입니다. GrainBridge는 어디서나 「참고 사례: 식량 불균형(GrainBridge)」, MakersRound는 중심 예제의 프로토타입입니다.
 - 시장 수치: TAM 92.2만 명 · 922억 원 / SAM 21.6만 명 · 216억 원 / SOM 12.96만 명 · 129.6억 원 (국내, 연 구독료 10만 원, "2025년 11월 리서치 기준"). 21.6만은 언제나 SAM입니다.
 - 세그먼트 이름: 적극적 학습형 · 과제 수행자 · 확증 편향자 · 단순 실행자.
-- 부록 A 번호: A-1 작업 폴더와 비공개 저장소 · A-2 Claude Code 리서치 에이전트 사용 규칙 · A-3 개념 프로토타입 파일 열어 보기 · A-4 가상 인터뷰 결과 파일 표시 규칙.
+- 부록 A 번호: A-1 작업 폴더와 비공개 저장소 · A-2 Claude Code 리서치 에이전트 사용 규칙 · A-3 개념 프로토타입 파일 열어 보기 · A-4 인터뷰 기록 파일 표시 규칙.
 - 디자인씽킹 단계 표시: "디자인씽킹 N단계 · 단계 이름" (교재 `[이 절에서 할 일]`과 같음).
 
 ### 교재 표기 (2026-11-20 독자 정렬)

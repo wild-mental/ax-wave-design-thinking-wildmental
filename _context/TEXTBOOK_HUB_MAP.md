@@ -13,7 +13,7 @@
 | 교재 쪽 | 교재가 가리키는 것 | 자료실 위치 | 상태 |
 |---|---|---|---|
 | 3 · 9 · 35 · 41 | 온라인 자료실 (「이 교재를 쓰는 법」 4번, 1.1절 [실습 안내] 2번, 2.6절 20분 질문 세트 안내, 부록 A 첫 쪽 주소 표) | `README.md` (첫 화면 = 교재 매칭표) | 작성 |
-| 9 · 41 | 자료실 저장소 · 워크시트 문서 원본 `worksheet.md` | `worksheet-template/worksheet.md` (저장소 화면에서 열기) · 시작 안내 `worksheet-template/README.md` | 작성 (사본) |
+| 9 · 41 | 자료실 원본(GitHub 화면) · 워크시트 문서 원본 `worksheet.md` | `worksheet-template/worksheet.md` (저장소 화면에서 열기) · 시작 안내 `worksheet-template/README.md` | 작성 (사본) |
 | 9 · 41~42 | 강사 GitHub 아이디 `wild-mental` | `README.md` 「처음 오셨다면」 · 「수업 연락처」 | 작성 |
 | 9 · 41 | 사전 안내 ("GitHub 계정과 Claude Code 데스크톱 앱의 계정·요금제는 사전 안내를 따릅니다") | `pre-course-notice.md` | 작성 |
 | 3 · 9~42 · 45 · 49 | 지시문 킷 (지시문 15개, 이름으로 찾음) | `kits/claude-code-research-prompts.md` | 작성 (사본) |
