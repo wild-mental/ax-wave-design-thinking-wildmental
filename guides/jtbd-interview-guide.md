@@ -1,6 +1,6 @@
 # JTBD 심층 인터뷰 가이드
 
-교재: 2.5절 JTBD 인터뷰 준비하기 (31~34쪽) · 2.6절 짝 롤플레잉 인터뷰 (34~36쪽) · 쓰는 날: Day 2 오후 · 쓰는 곳: 작업 폴더의 `interviews/persona-cards.md` · `interviews/interview-plan.md` · `interviews/pair-interview-notes.md`, 워크시트 「PARTS+C 지시문으로 만든 JTBD 인터뷰 계획서」 · 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」
+교재: 2.5절 JTBD 인터뷰 준비하기 (32~34쪽) · 2.6절 짝 롤플레잉 인터뷰 (35~36쪽) · 쓰는 날: Day 2 오후 · 쓰는 곳: 작업 폴더의 `interviews/persona-cards.md` · `interviews/interview-plan.md` · `interviews/pair-interview-notes.md`, 워크시트 「PARTS+C 지시문으로 만든 JTBD 인터뷰 계획서」 · 「짝 롤플레잉과 AI 가상 인터뷰를 구분해 정리한 JTBD 인터뷰 결과 보고서」
 
 ## 이 가이드에서 볼 것
 
