@@ -1,6 +1,6 @@
 # ax-wave-design-thinking-wildmental — 작업 안내
 
-4-2 「서비스 아이디어 기획을 위한 데이터 기반 디자인 씽킹」 교재(인쇄본)와 함께 쓰는 **공개 온라인 자료실** 저장소입니다. 이 파일은 사이트에 나오지 않습니다(`_config.yml` exclude). 이 저장소에서 일을 시작할 때 이 파일과 `_context/RULES.md`를 먼저 읽습니다. 제작 계획과 후속 작업 목록은 상위 프로젝트의 비공개 문서 `../docs/4-2/ONLINE_MATERIALS_PLAN.md` · `../docs/4-2/HUB_TODO.md`에 있습니다(이 저장소에는 두지 않음).
+「서비스 아이디어 기획을 위한 데이터 기반 디자인 씽킹」 교재(인쇄본)와 함께 쓰는 **공개 온라인 자료실** 저장소입니다. 이 파일은 사이트에 나오지 않습니다(`_config.yml` exclude). 이 저장소에서 일을 시작할 때 이 파일과 `_context/RULES.md`를 먼저 읽습니다. 제작 계획과 후속 작업 목록은 상위 프로젝트의 비공개 문서 `../docs/4-2/ONLINE_MATERIALS_PLAN.md` · `../docs/4-2/HUB_TODO.md`에 있습니다(이 저장소에는 두지 않음).
 
 ## 배경 (2026-11-20)
 
@@ -10,7 +10,7 @@
   - 강사 GitHub 아이디: `wild-mental` (학생이 비공개 저장소에 초대)
   - 학생 비공개 저장소이자 작업 폴더 이름: `design-thinking-worksheet`
 - 강사 결정 (상위 프로젝트 `docs/4-2/TEXTBOOK_SPEC.md` §1-4-12 · §1-4-14):
-  - 4-2 전용 새 공개 저장소입니다. 4-1 자료실(`ax-wave-uxui-wildmental`)은 건드리지 않습니다.
+  - 이 과목 전용 새 공개 저장소입니다. 「웹서비스 UX/UI 기획」 자료실(`ax-wave-uxui-wildmental`)은 건드리지 않습니다.
   - 학생은 비공개 저장소 `design-thinking-worksheet`를 새로 만들고, `worksheet-template/worksheet.md`를 Copy raw file로 복사해 붙여 넣은 뒤 `wild-mental`을 초대합니다. 내 컴퓨터의 같은 이름 폴더를 Claude Code 작업 폴더로 쓰고, 하루를 마칠 때마다 작업 폴더 안의 파일과 폴더를 모두(`worksheet.md`, 세 폴더, 복사해 둔 `DESIGN.md`) Add file → Upload files로 올립니다. Git 명령은 다루지 않습니다.
   - 개념 프로토타입은 배포하지 않습니다. 화면 녹화는 만들지 않습니다.
   - ChatGPT 공유 링크 같은 외부 대화 링크는 인쇄본에 넣지 않고, 필요하면 자료실에만 둡니다.
