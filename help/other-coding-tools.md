@@ -22,7 +22,7 @@ Claude 계정에는 일정 시간 동안 쓸 수 있는 양(사용 한도)이 �
 
 | 하는 일 | Claude Code (Code 탭) | OpenAI Codex (ChatGPT 데스크톱 앱) | Cursor |
 |---|---|---|---|
-| 작업 폴더 열기 | 입력창 위 **환경 선택**에서 로컬(Local), **폴더 선택**에서 `design-thinking-worksheet` | Codex를 고른 뒤 폴더 열기(또는 프로젝트를 만들고 폴더 추가)로 `design-thinking-worksheet`를 고릅니다 | 앱을 열고 폴더를 고릅니다. 편집기 화면에서는 **File → Open Folder**. 그다음 `Cmd+I`(Windows `Ctrl+I`)로 Agent를 엽니다 |
+| 작업 폴더 열기 | 입력창 아래 **환경 선택**에서 이 컴퓨터, **폴더 선택**에서 `design-thinking-worksheet` | Codex를 고른 뒤 폴더 열기(또는 프로젝트를 만들고 폴더 추가)로 `design-thinking-worksheet`를 고릅니다 | 앱을 열고 폴더를 고릅니다. 편집기 화면에서는 **File → Open Folder**. 그다음 `Cmd+I`(Windows `Ctrl+I`)로 Agent를 엽니다 |
 | 파일을 가리키기 (`@`) | `@research/status-report.md`처럼 `@`를 치고 후보에서 고릅니다 | 입력창에 `@`를 쳐서 파일 후보가 뜨면 고릅니다. 안 뜨면 "research 폴더의 status-report.md 파일"처럼 경로를 글로 씁니다 | `@`를 치면 파일 · 폴더 후보가 뜹니다. `@research/status-report.md`처럼 Claude Code와 같게 씁니다 |
 | 웹 검색으로 출처 찾기 | 지시문대로 보내고, 웹 검색이나 웹 페이지 읽기를 허락할지 물으면 허락합니다 | 지시문 끝에 "웹에서 찾아 주장마다 출처 링크를 붙여 줘"를 더합니다. 인터넷 사용 허락을 물으면 허락합니다 | Codex와 같게 지시문 끝에 한 줄을 더합니다. 검색하겠다고 허락을 물으면 허락합니다 |
 | 파일 고치기 전 허락 | 모드 선택에서 고치기 전에 묻는 모드를 씁니다 | 입력창 아래 권한 선택에서 **Ask for approval**을 고릅니다. **Full access**는 고르지 않습니다 | 파일 편집은 바로 적용되고 바뀐 부분 보기로 확인합니다. 먼저 계획만 받으려면 입력창에서 `Shift+Tab`으로 **Plan Mode**를 켭니다. 명령 실행 허락에서 **Run Everything**은 고르지 않습니다 |
