@@ -94,5 +94,5 @@
 | `help/stuck-guide.md` · `help/other-coding-tools.md` · `help/windows-notes.md` | 도움말 3개 (막혔을 때 모음 · 다른 AI 코딩 도구 대응 · Windows 메모) | 작성 |
 | `README.md` 「처음 오셨다면」 · 「가이드 고침 이력」 | 첫 준비 다섯 단계, 가이드를 고친 날짜와 한 줄 | 작성 |
 | `worksheet-template/README.md` | 워크시트 원본 시작 안내 | 작성 |
-| `guides/images/` | 가이드 캡처 자리 2곳 (`workspace-repo-setup-guide-1.png` · `-2.png`) | 캡처 1곳 작성 · 1곳(Claude Code 입력창 아래 줄) 강사 촬영 대기 |
+| `guides/images/` | 가이드 캡처 자리 2곳 (`workspace-repo-setup-guide-1.png` · `-2.png`) | 캡처 2곳 작성 |
 | `_context/` | 작성 규칙, 이 매칭표, 가이드 목록(`guides.json`), 점검 · 동기화 스크립트 (사이트에는 안 보임) | 작성 |

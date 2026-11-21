@@ -102,6 +102,7 @@
 | 2026-11-20 | 자료실을 열었습니다. 교재 매칭표, 워크시트 원본, 지시문 킷을 올렸습니다. 온라인 가이드 9개와 도움말 3개, 사전 안내는 준비 중이며 수업 전에 채웁니다 |
 | 2026-11-20 | 사전 안내, 온라인 가이드 9개, 도움말 3개(막혔을 때 모음 · 다른 AI 코딩 도구로 할 때 · Windows 사용자 메모)의 내용을 모두 채웠습니다 |
 | 2026-11-20 | 교재의 바뀐 표기(중심 예제 · 참고 사례 · 핵심 세그먼트 · 완료 기준 체크리스트 · JTBD 문장 틀 · 결과에 붙이는 표시어 등)와 새 쪽 번호에 맞춰 가이드 9개 · 도움말 3개 · 사전 안내를 고쳤습니다. 리서치 보고서 가이드의 이름도 교재와 같은 「중심 예제 리서치 보고서 전문」입니다 |
+| 2026-11-22 | 「작업 폴더와 워크시트 저장소 준비 가이드」에 Claude Code 입력창 주변 그림을 넣고, 환경 · 폴더 선택은 입력창 위, 모드 · 모델 선택은 입력창 아래 줄에 있다고 고쳤습니다(사전 안내 · 다른 가이드 · 도움말의 같은 설명도 함께) |
 
 [ws]: https://github.com/wild-mental/ax-wave-design-thinking-wildmental/blob/main/worksheet-template/worksheet.md
 [ws-start]: https://github.com/wild-mental/ax-wave-design-thinking-wildmental/tree/main/worksheet-template

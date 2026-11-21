@@ -22,7 +22,7 @@
 ### 리서치
 
 - **답이 대화에만 있고 파일이 안 생겼다** → "방금 답을 research/status-report.md 로 저장해 줘. 내용은 바꾸지 마."라고 보냅니다. 파일을 만들지 묻는 창을 거절했거나 놓치지 않았는지도 봅니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
-- **`@`로 가리킨 파일을 못 찾는다고 한다** → 입력창 아래 폴더 선택이 `design-thinking-worksheet`인지 보고 "이 폴더에 무엇이 있는지 알려 줘"로 확인합니다. 후보에 뜨지 않는 파일은 `@research/status-report.md`처럼 경로를 끝까지 씁니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
+- **`@`로 가리킨 파일을 못 찾는다고 한다** → 입력창 위 폴더 선택이 `design-thinking-worksheet`인지 보고 "이 폴더에 무엇이 있는지 알려 줘"로 확인합니다. 후보에 뜨지 않는 파일은 `@research/status-report.md`처럼 경로를 끝까지 씁니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
 - **출처 링크가 열리지 않거나 내용이 다르다** → 그 줄을 "확인 필요"로 고치고 같은 수치를 확인할 수 있는 다른 출처를 찾게 합니다. 끝까지 열리지 않는 링크의 수치는 근거로 쓰지 않습니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
 - **웹을 찾아보지 않고 출처 없이 답한다** → "웹에서 찾아서, 수치마다 출처 링크를 붙여 줘."라고 다시 보냅니다. 웹 검색을 허락할지 묻는 창을 거절했다면 이번에는 허락합니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
 - **같은 말을 되풀이하거나 앞에서 정한 것을 잊는다** → 그 대화는 더 쓰지 않습니다. 남길 수치와 결정을 파일에 옮기게 한 뒤, 새 대화에 그 파일만 `@`로 넘깁니다. 자세히: 「[Claude Code 리서치 에이전트 사용 가이드](../guides/claude-code-research-agent-guide.md)」
